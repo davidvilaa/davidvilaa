@@ -1,4 +1,16 @@
 <h1 align="center">hi, i'm <a href="https://github.com/davidvilaa">David Vila</a>!</h1>
+
+<p align="center">
+  <a href="mailto:lasstydev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/david-vila-fortea-55627a395/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://discordapp.com/users/224535057442799616">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
                                                                                     
 <p align="center">I'm a Computer Engineering student at UPV (Valencia) and a Software Developer. I focus on building efficient web applications, working with robust backend architectures, and exploring new technologies.</p>
 
