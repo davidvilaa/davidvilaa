@@ -1,4 +1,4 @@
-### Hi there! I'm [Tu Nombre o Nick] 👋
+### Hi there! I'm David 👋
 
 I'm a Computer Engineering student at UPV (Valencia) and a Full-Stack Developer. I love building modern web applications, tackling robust architectures, and tinkering with game development in my free time.
 
@@ -11,5 +11,5 @@ I'm a Computer Engineering student at UPV (Valencia) and a Full-Stack Developer.
 
 ### 🚀 Featured Projects
 
-* 🏆 **[TrophyD](pon-aqui-el-link):** My final degree project. A web platform built from scratch with Next.js, TypeScript, and Supabase.
-* 🗡️ **[Basuramurai](pon-aqui-el-link):** A 3D video game developed in a team environment using Unity and C#.
+* 🏆 **[TrophyD](https://github.com/davidvilaa/trophyd):** My final degree project. A web platform built from scratch with Next.js, TypeScript, and Supabase.
+* 🗡️ **[Basuramurai]([pon-aqui-el-link](https://github.com/davidvilaa/basuramurai)):** A 3D video game developed in a team environment using Unity and C#.
