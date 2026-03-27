@@ -1,10 +1,14 @@
 <h1 align="center">hi, i'm <a href="https://github.com/davidvilaa">David Vila</a>!</h1>
+
+<hr>
+
 <h3 align="center">welcome to my profile</h3>
-
 <p align="center">I'm a Computer Engineering student at UPV (Valencia) and a Software Developer. I focus on building efficient web applications, working with robust backend architectures, and exploring new technologies.</p>
+<p align="center">Currently developing my final thesis (<strong>trophyD</strong>) and polishing my other projects. My main interests include the React ecosystem, data integration, and scalable software development.</p>
 
-<p align="center">Currently developing my final thesis (<strong>TrophyD</strong>) and polishing my other projects. My main interests include the React ecosystem, data integration, and scalable software development.</p>
+<hr>
 
+<h3 align="center"> technologies </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -18,7 +22,8 @@
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
-### 🚀 Featured Projects
+<hr>
 
-* 🏆 **[TrophyD](https://github.com/davidvilaa/trophyd):** A web-based social network for gaming completionists, mixing concepts from Letterboxd, Steam, and PSNProfiles for guide sharing and tracking. Built with Next.js, TypeScript, and Supabase.
-* 🗡️ **[Basuramurai](https://github.com/davidvilaa/basuramurai):** A team-developed 3D hack & slash adventure featuring a unique raccoon protagonist collecting trash, complete with a skill tree and map exploration mechanics. Built using Unity and C#.
+<h3 align="center"> featured projects </h3>
+<a href="https://github.com/davidvilaa/trophyd"><strong>trophyD</strong></a> &nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="https://github.com/davidvilaa/basuramurai"><strong>basuramurai</strong></a> &nbsp;&nbsp;|&nbsp;&nbsp;
