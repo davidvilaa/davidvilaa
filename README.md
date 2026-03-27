@@ -1,6 +1,5 @@
-<h1 align="center">hi, i'm <a href="https://github.com/davidvilaa">David Vila</a>!</h1>
-
-<h2 align="center">welcome to my profile</h2>
+<h1 align="center">hi, i'm <a href="https://github.com/davidvilaa">David Vila</a>!</h1
+                                                                                    
 <p align="center">I'm a Computer Engineering student at UPV (Valencia) and a Software Developer. I focus on building efficient web applications, working with robust backend architectures, and exploring new technologies.</p>
 <p align="center">Currently developing my final thesis (<strong>trophyD</strong>) and polishing my other projects. My main interests include the React ecosystem, data integration, and scalable software development.</p>
 
