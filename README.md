@@ -3,6 +3,8 @@
 <p align="center">I'm a Computer Engineering student at UPV (Valencia) and a Software Developer. I focus on building efficient web applications, working with robust backend architectures, and exploring new technologies.</p>
 <p align="center">Currently developing my final thesis (<strong>trophyD</strong>) and polishing my other projects. My main interests include the React ecosystem, data integration, and scalable software development.</p>
 
+<br>
+
 <h2 align="center">technologies</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
@@ -16,6 +18,8 @@
   <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
+
+<br>
 
 <h2 align="center">featured projects</h2>
 <p align="center">
