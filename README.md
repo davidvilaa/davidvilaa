@@ -4,9 +4,11 @@
   <a href="mailto:lasstydev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;<a href="https://www.linkedin.com/in/david-vila-fortea-55627a395/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="https://discordapp.com/users/224535057442799616"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
                                                                                     
-<p align="center">I'm a Computer Engineering student at UPV (Valencia) and a Software Developer. I focus on building efficient web applications, working with robust backend architectures, and exploring new technologies.</p>
+<p align="center">I'm a Computer Engineering student at UPV (Valencia) and a Software Developer. I got into coding for a simple reason: to build things that actually help me and the people around me. Whether it's crafting a custom World of Warcraft addon to help my friends hit 100% completion, or exploring a new framework, I love creating tools that bring a smile to people's faces.</p>
 
-<p align="center">Currently developing my final thesis (<strong>trophyD</strong>) and polishing my other projects. My main interests include the React ecosystem, data integration, and scalable software development.</p>
+<p align="center">I'm constantly diving into new languages and technologies to broaden my perspective. When I'm away from the keyboard, you'll probably find me traveling, raiding in WoW, or dodging bosses in Dark Souls.</p>
+
+<p align="center">Currently, I'm putting all my energy into my final thesis, <strong>trophyD</strong>. Previously, I've worked as a Full-Stack Developer at the University of Valencia and developed <strong>basuramurai</strong>, a procedural hack n' slash game.</p>
 
 <br>
 
