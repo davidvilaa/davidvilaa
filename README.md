@@ -20,14 +20,12 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="24" />
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" height="24" />
   <img src="https://img.shields.io/badge/Rust-%23CE412B.svg?style=flat-square&logo=rust&logoColor=white" alt="Rust" height="24" />
-
   <img src="https://img.shields.io/badge/Next.js-%23434343.svg?style=flat-square&logo=next.js&logoColor=white" alt="Next JS" height="24" />
   <img src="https://img.shields.io/badge/React-%23087EA4.svg?style=flat-square&logo=react&logoColor=white" alt="React" height="24" />
+  <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white" alt="Vite" height="24" />
   <img src="https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=Tauri&logoColor=white" alt="Tauri" height="24" />
-
   <img src="https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=sqlite&logoColor=white" alt="SQL" height="24" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" height="24" />
-
   <img src="https://img.shields.io/badge/Unity-%237F8A93.svg?style=flat-square&logo=unity&logoColor=white" alt="Unity" height="24" />
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git" height="24" />
 </p>
