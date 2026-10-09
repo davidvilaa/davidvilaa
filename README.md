@@ -10,8 +10,6 @@
 
 <p align="center">When I'm away from the keyboard, you'll probably find me traveling, enjoying some video games, or catching up on a good anime or movie.</p>
 
-<p align="center">Currently based in Tokyo, I'm putting all my energy into launching my own web development agency, <strong><a href="https://your-agency-link-here.com">[Agency Name]</a></strong>. Previously, I've worked as a Full-Stack Developer at the UPV, successfully presented my final thesis <strong>trophyD</strong>, and developed <strong>basuramurai</strong>, a procedural hack n' slash game.</p>
-
 <br>
 
 <h2 align="center">technologies</h2>
