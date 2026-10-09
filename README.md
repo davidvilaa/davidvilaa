@@ -10,6 +10,8 @@
 
 <p align="center">When I'm away from the keyboard, you'll probably find me traveling, enjoying some video games, or catching up on a good anime or movie.</p>
 
+<p align="center">After wrapping up an incredible Woring Holiday summer in Japan, I'm currently dedicating all my time to my personal projects. My main focus right now is building a new game in Unity and diving deep into new technologies to keep leveling up my skills as a developer.</p>
+
 <br>
 
 <h2 align="center">technologies</h2>
