@@ -4,7 +4,7 @@
   <a href="mailto:lasstydev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;<a href="https://www.linkedin.com/in/david-vila-fortea-55627a395/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="https://discordapp.com/users/224535057442799616"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
                                                                                                         
-<p align="center">I hold a degree in Computer Engineering from UPV (Valencia) and currently work as a freelance Software Developer. I got into coding for a simple reason: to build things that actually help me and the people around me. Whether it's crafting a custom WoW addon to help my friends with their mount collection, or designing a web app to track our gaming backlogs, I love creating tools that bring a smile to people's faces.</p>
+<p align="center">I hold a degree in Computer Engineering from UPV (Valencia) and currently work as a Software Developer. I got into coding for a simple reason: to build things that actually help me and the people around me. Whether it's crafting a custom WoW addon to help my friends with their mount collection, or designing a web app to track our gaming backlogs, I love creating tools that bring a smile to people's faces.</p>
 
 <p align="center">I'm constantly diving into new languages, frameworks, and technologies to broaden my perspective and find fresh approaches to software development.</p>
 
