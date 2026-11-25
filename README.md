@@ -10,7 +10,7 @@
 
 <p align="center">After wrapping up an incredible Working Holiday experience in Japan, I'm currently focused on my most ambitious project yet, <strong>Beacon</strong>, a unified platform designed to bring different media and entertainment tracking ecosystems together under one roof, while continuing to sharpen my backend and full-stack skills.</p>
 
-<p align="center">When I'm away from the keyboard, you'll probably find me traveling, playing video games, or catching up on a good anime or movie.</p>
+<p align="center">When I'm away from the keyboard, you'll probably find me traveling, playing video games, or catching up on a good <a href="https://anilist.co/user/davidvilaa/" target="_blank">anime</a> or <a href="https://letterboxd.com/davidvilaa_/" target="_blank">movie</a>.</p>
 
 <br>
 
